@@ -4,22 +4,16 @@ permalink: /about/
 author_profile: true
 ---
 
-## Mahmoud Jalali Mehrabad
+# About me
 
-**Position:** Research Scientist / Postdoctoral Associate  
-**Institution:** MIT - Quantum Photonics & AI Group  
-**Email:** mjalalim3@mit.edu  
-**Office:** Research Laboratory of Electronics, MIT  
-**Google Scholar:** [https://scholar.google.com/citations?user=CqtiZuEAAAAJ](https://scholar.google.com/citations?user=CqtiZuEAAAAJ)
+Hello! I'm Mahmoud Jalali Mehrabad, a researcher at the Massachusetts Institute of Technology (MIT), working with Prof. Dirk Englund in the [Quantum Photonics & AI Group](https://qp.mit.edu/team). I am passionate about advancing quantum technologies through innovative research in semiconductor and optical systems.
 
-## Biography
+My research spans a wide array of topics, from quantum photonics and optical computing to quantum sensing and semiconductor integration. I enjoy collaborating with scientists from diverse fields, bringing together theoretical, computational, and experimental approaches to tackle complex problems in quantum technologies and photonics. You can read more about my research [here](/research/) and find an up-to-date list of my publications [here](/publications/).
 
-I am a researcher in the [MIT Quantum Photonics & AI Group](https://qp.mit.edu/team), working under Prof. Dirk Englund. My research focuses on quantum technologies based on semiconductor and optical systems, with particular emphasis on quantum photonics and optical computing.
-
-## Research Interests
+## Research Focus
 
 - **Quantum Photonics:** Development of quantum technologies using semiconductor systems
-- **Optical Computing:** Advanced photonic circuits for classical and quantum information processing
+- **Optical Computing:** Advanced photonic circuits for classical and quantum information processing  
 - **Quantum Technologies:** Quantum sensing, communication, and computation
 - **Semiconductor Systems:** Integration of quantum emitters with nanophotonic structures
 

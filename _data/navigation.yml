@@ -1,16 +1,16 @@
 # Main navigation
 main:
-  - title: "About"
-    url: /about/
+  - title: "Mahmoud Jalali Mehrabad"
+    url: /
+  - title: "Research"
+    url: /research/
   - title: "Publications"
     url: /publications/
   - title: "Talks"
     url: /talks/
   - title: "Teaching"
     url: /teaching/
-  - title: "Portfolio"
-    url: /portfolio/
-  - title: "Blog Posts"
-    url: /posts/
-  - title: "CV"
-    url: /cv/
+  - title: "Resources"
+    url: /resources/
+  - title: "Contact"
+    url: /contact/
