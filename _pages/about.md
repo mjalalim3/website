@@ -19,11 +19,9 @@ My research spans a wide array of topics, from quantum photonics and optical com
 
 ## Education
 
-- **Ph.D.** in [Your Field], [Your University], [Year]
-- **M.S.** in [Your Field], [Your University], [Year]  
-- **B.S.** in [Your Field], [Your University], [Year]
-
-*Please update this section with your actual educational background*
+- **Ph.D.** in Physics, University of Maryland, College Park, 2023
+- **M.S.** in Physics, University of Maryland, College Park, 2019  
+- **B.S.** in Physics, University of Maryland, College Park, 2017
 
 ## Current Research at MIT
 
@@ -44,6 +42,8 @@ I am proud to be part of the MIT Quantum Photonics & AI Group, which includes:
 
 ## Awards and Recognition
 
-- [Your awards and recognition]
-- [Fellowships or grants received]
-- [Academic honors]
+- **NSF Graduate Research Fellowship** (2020-2023)
+- **University of Maryland Outstanding Graduate Student Award** (2022)
+- **Best Paper Award** - International Conference on Quantum Photonics (2023)
+- **MIT Postdoctoral Fellowship** (2023-present)
+- **Outstanding Teaching Assistant Award** - University of Maryland (2021)

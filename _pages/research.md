@@ -24,10 +24,11 @@ Novel approaches to integrating quantum emitters with nanophotonic structures fo
 
 ## Current Projects
 
-- **Quantum Computing Architectures**: Developing scalable quantum computing systems
-- **Optical Neural Networks**: Photonic implementations of machine learning algorithms
-- **Quantum Sensing**: Advanced quantum sensors for precision measurements
-- **Semiconductor Integration**: Novel approaches to quantum system integration
+- **Quantum Computing Architectures**: Developing scalable quantum computing systems using semiconductor-based quantum emitters
+- **Optical Neural Networks**: Photonic implementations of machine learning algorithms for high-speed computing
+- **Quantum Sensing**: Advanced quantum sensors for precision measurements in quantum metrology
+- **Semiconductor Integration**: Novel approaches to integrating quantum systems with nanophotonic structures
+- **Quantum Communication**: Secure quantum communication protocols using integrated photonic circuits
 
 ## Collaborations
 

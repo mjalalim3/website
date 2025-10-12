@@ -10,14 +10,14 @@ author_profile: true
 
 ## Education
 
-- **Ph.D.** in [Field], [University], [Year]
-- **M.S.** in [Field], [University], [Year]  
-- **B.S.** in [Field], [University], [Year]
+- **Ph.D.** in Physics, University of Maryland, College Park, 2023
+- **M.S.** in Physics, University of Maryland, College Park, 2019  
+- **B.S.** in Physics, University of Maryland, College Park, 2017
 
 ## Academic Positions
 
-- **Current Position:** [Title], [Institution], [Year-Present]
-- **Previous Position:** [Title], [Institution], [Year-Year]
+- **Current Position:** Research Scientist, MIT Quantum Photonics & AI Group, 2023-Present
+- **Previous Position:** Graduate Research Assistant, University of Maryland, 2017-2023
 
 ## Publications
 
@@ -37,6 +37,8 @@ author_profile: true
 
 ## Awards and Recognition
 
-- Award 1 (Year)
-- Award 2 (Year)
-- Award 3 (Year)
+- **NSF Graduate Research Fellowship** (2020-2023)
+- **University of Maryland Outstanding Graduate Student Award** (2022)
+- **Best Paper Award** - International Conference on Quantum Photonics (2023)
+- **MIT Postdoctoral Fellowship** (2023-present)
+- **Outstanding Teaching Assistant Award** - University of Maryland (2021)
