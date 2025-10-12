@@ -103,7 +103,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
-  - jekyll-scholar
 
 # Archives
 jekyll-archives:
@@ -117,14 +116,5 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
-# Scholar
-scholar:
-  style: apa
-  locale: en
-  sort_by: year
-  order: descending
-  group_by: year
-  bibtex_footer: true
-  bibtex_show_label: false
-  details_layout: bibtex.html
-  query: "@*"
+# Bibliography (simplified)
+bibliography: true
