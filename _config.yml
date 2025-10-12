@@ -24,6 +24,18 @@ social:
     - "mailto:mjalalim3@mit.edu"
     - "https://qp.mit.edu/team"
 
+# Author information
+author:
+  name                  : "Mahmoud Jalali Mehrabad"
+  avatar                : "/images/profile.jpg"
+  bio                   : "Researcher at MIT Quantum Photonics & AI Group"
+  location              : "Cambridge, MA"
+  email                 : "mjalalim3@mit.edu"
+  googlescholar         : "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
+  github                : "mjalalim3"
+  linkedin              : "mahmoud-jalali-mehrabad-7a46a5100"
+  twitter               : "mjalalimehrabad"
+
 # Build Settings
 markdown                 : kramdown
 highlighter             : rouge
