@@ -1,7 +1,10 @@
 ---
+permalink: /
 title: "About"
-permalink: /about/
 author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
 # About me
@@ -25,18 +28,7 @@ My current research encompasses several cutting-edge areas in quantum photonics:
 - **Ph.D.** in Quantum Optics, University of Sheffield, UK, 2021
 - **University Prize Scholarship Fellow** (2017-2021)
 
-## Current Research at MIT
-
-My current work focuses on:
-
-- **Quantum Photonic Integrated Circuits:** Advanced semiconductor-based quantum systems
-- **Optical Frequency Combs:** Novel approaches to frequency comb generation and manipulation
-- **Quantum Synchronization:** On-chip optical synchronization techniques
-- **Solid-state Quantum Emitters:** Integration with nanophotonic structures
-- **2D Materials Photonics:** Advanced plasmonic and photonic applications
-
 ## Awards and Recognition
 
 - **UK Rank Prize Award** (2021) - For work on semiconductor topological quantum photonic integrated circuits
 - **University Prize Scholarship Fellow** (2017-2021) - University of Sheffield
-- **PhD in Quantum Optics** (2021) - University of Sheffield, UK
