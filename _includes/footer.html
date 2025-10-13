@@ -1,0 +1,55 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <h2 class="footer-heading">{{ site.title | escape }}</h2>
+        <p class="footer-text">{{ site.description | escape }}</p>
+      </div>
+      
+      <div class="footer-col footer-col-2">
+        <h3 class="footer-heading">Connect</h3>
+        <ul class="social-media-list">
+          <li>
+            <a href="mailto:{{ site.author.email }}">
+              <i class="fa fa-envelope"></i> Email
+            </a>
+          </li>
+          <li>
+            <a href="{{ site.author.googlescholar }}" target="_blank">
+              <i class="fa fa-graduation-cap"></i> Google Scholar
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/{{ site.author.github }}" target="_blank">
+              <i class="fa fa-github"></i> GitHub
+            </a>
+          </li>
+          <li>
+            <a href="https://linkedin.com/in/{{ site.author.linkedin }}" target="_blank">
+              <i class="fa fa-linkedin"></i> LinkedIn
+            </a>
+          </li>
+          <li>
+            <a href="https://x.com/{{ site.author.twitter }}" target="_blank">
+              <i class="fa fa-twitter"></i> X/Twitter
+            </a>
+          </li>
+        </ul>
+      </div>
+      
+      <div class="footer-col footer-col-3">
+        <h3 class="footer-heading">Research</h3>
+        <ul class="footer-links">
+          <li><a href="/research/">Research Areas</a></li>
+          <li><a href="/publications/">Publications</a></li>
+          <li><a href="/talks/">Talks</a></li>
+          <li><a href="/teaching/">Teaching</a></li>
+        </ul>
+      </div>
+    </div>
+    
+    <div class="footer-bottom">
+      <p>&copy; {{ 'now' | date: "%Y" }} {{ site.author.name }}. Powered by Jekyll & AcademicPages.</p>
+    </div>
+  </div>
+</footer>
