@@ -5,8 +5,8 @@ title_separator         : "|"
 subtitle                : "Research Scientist | MIT"
 name                    : "Mahmoud Jalali Mehrabad"
 description             : "Research Scientist at MIT working on quantum photonics, topological photonic circuits, and quantum technologies"
-url                     : "https://mjalalim3.github.io/website"
-baseurl                 : "/website"
+url                     : "https://mahmoudjalalimehrabad.com"
+baseurl                 : ""
 repository              : "mjalalim3/website"
 
 # Theme
