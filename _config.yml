@@ -10,8 +10,7 @@ baseurl                 : "/website"
 repository              : "mjalalim3/website"
 
 # Theme
-theme                   : "minimal-mistakes-jekyll"
-remote_theme            : "mmistakes/minimal-mistakes"
+remote_theme            : "academicpages/academicpages.github.io"
 
 # SEO
 twitter:
