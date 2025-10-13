@@ -10,7 +10,8 @@ baseurl                 : "/website"
 repository              : "mjalalim3/website"
 
 # Theme
-remote_theme            : "academicpages/academicpages.github.io"
+remote_theme            : "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin   : "default"
 
 # SEO
 twitter:
@@ -118,6 +119,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-archives
+  - jekyll-include-cache
+  - jekyll-paginate
 
 # Archives
 jekyll-archives:
