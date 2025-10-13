@@ -30,14 +30,26 @@ social:
 # Author information
 author:
   name                  : "Mahmoud Jalali Mehrabad"
-  avatar                : "/images/profile.jpg"
-  bio                   : "Research Scientist at MIT working on quantum photonics, topological photonic circuits, and quantum technologies"
+  avatar                : "/website/images/profile.jpg"
+  bio                   : "Research Scientist at MIT"
   location              : "Cambridge, MA"
   email                 : "mjalalim3@mit.edu"
-  googlescholar         : "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
-  github                : "mjalalim3"
-  linkedin              : "mahmoud-jalali-mehrabad-7a46a5100"
-  twitter               : "mjalalimehrabad"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:mjalalim3@mit.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mjalalim3"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/mjalalimehrabad"
 
 # Build Settings
 markdown                 : kramdown
