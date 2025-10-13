@@ -1,73 +1,75 @@
-<<<<<<< HEAD
 ---
 title: "Research"
 permalink: /research/
 author_profile: true
+layout: single
 ---
 
-# Research
+# Research Overview
 
-My research focuses on advancing quantum technologies through innovative approaches in semiconductor and optical systems. I work at the intersection of quantum photonics, optical computing, and semiconductor integration.
+My research focuses on cutting-edge quantum photonics and topological photonic circuits, with particular emphasis on semiconductor-based quantum systems and their applications in quantum technologies.
 
-## Research Areas
+## Current Research Areas
 
-### Quantum Photonics
-Development of quantum technologies using semiconductor systems for applications in quantum computing, sensing, and communication.
+### 1. Topological Photonic Circuits
 
-### Optical Computing
-Advanced photonic circuits for classical and quantum information processing, including neural networks and machine learning applications.
+My work on semiconductor topological quantum photonic integrated circuits represents a significant advancement in quantum photonics. These circuits enable the generation, transfer, and manipulation of light at the single photon limit on-chip.
 
-### Quantum Technologies
-Quantum sensing, communication, and computation systems with applications in precision measurement and secure communication.
+**Key Achievement:** This work was recognized with the UK's Rank Prize Award in 2021.
 
-### Semiconductor Integration
-Novel approaches to integrating quantum emitters with nanophotonic structures for scalable quantum systems.
+![Corbino Device]({{ '/images/Corbino4.jpg' | relative_url }})
+*Corbino device for topological photonic circuits*
 
-## Current Projects
+<video width="100%" controls>
+  <source src="{{ '/images/Corbino v60001-0800.mkv' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Experimental demonstration of topological photonic circuit operation*
 
-- **Quantum Computing Architectures**: Developing scalable quantum computing systems using semiconductor-based quantum emitters
-- **Optical Neural Networks**: Photonic implementations of machine learning algorithms for high-speed computing
-- **Quantum Sensing**: Advanced quantum sensors for precision measurements in quantum metrology
-- **Semiconductor Integration**: Novel approaches to integrating quantum systems with nanophotonic structures
-- **Quantum Communication**: Secure quantum communication protocols using integrated photonic circuits
+### 2. Quantum Frequency Combs
+
+Development of optical frequency combs on topological silicon nitride platforms for quantum applications.
+
+<video width="100%" controls>
+  <source src="{{ '/images/Soliton v0.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*Soliton generation in quantum frequency combs*
+
+### 3. 2D Materials Integration
+
+Integration of 2D materials with plasmonic structures for advanced photonic applications.
+
+![GaAs Quantum Well]({{ '/images/GaAs-QW.png' | relative_url }})
+*GaAs quantum well structure for integrated photonics*
+
+![Plasmonic TMD]({{ '/images/Plasmonic TMD_v1.tif' | relative_url }})
+*Plasmonic integration with transition metal dichalcogenides*
+
+<video width="100%" controls>
+  <source src="{{ '/images/TMD Cavity v0.mp4' | relative_url }}" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+*TMD cavity for quantum applications*
+
+## Research Impact
+
+My research has contributed to several key areas in quantum photonics:
+
+- **On-chip Quantum Synchronization:** Multi-timescale optical synchronization and frequency-phase matching
+- **Chiral Quantum Optics:** On-chip chiral quantum optics with solid-state quantum emitters
+- **Quantum Photonic Integrated Circuits:** Advanced semiconductor-based quantum systems
 
 ## Collaborations
 
-I enjoy collaborating with scientists from diverse fields, bringing together theoretical, computational, and experimental approaches to tackle complex problems in quantum technologies and photonics.
-=======
----
-title: "Research"
-permalink: /research/
-author_profile: true
----
+- **MIT:** Current research on quantum photonic integrated circuits
+- **University of Maryland:** Joint Quantum Institute collaboration with Prof. Hafezi's Lab
+- **University of Sheffield:** PhD research on topological photonic circuits
 
-# Research
+## Publications
 
-My research focuses on advancing quantum technologies through innovative approaches in semiconductor and optical systems. I work at the intersection of quantum photonics, optical computing, and semiconductor integration.
+For a complete list of publications, see [Publications](/publications/).
 
-## Research Areas
+## Research Projects
 
-### Quantum Photonics
-Development of quantum technologies using semiconductor systems for applications in quantum computing, sensing, and communication.
-
-### Optical Computing
-Advanced photonic circuits for classical and quantum information processing, including neural networks and machine learning applications.
-
-### Quantum Technologies
-Quantum sensing, communication, and computation systems with applications in precision measurement and secure communication.
-
-### Semiconductor Integration
-Novel approaches to integrating quantum emitters with nanophotonic structures for scalable quantum systems.
-
-## Current Projects
-
-- **Quantum Computing Architectures**: Developing scalable quantum computing systems using semiconductor-based quantum emitters
-- **Optical Neural Networks**: Photonic implementations of machine learning algorithms for high-speed computing
-- **Quantum Sensing**: Advanced quantum sensors for precision measurements in quantum metrology
-- **Semiconductor Integration**: Novel approaches to integrating quantum systems with nanophotonic structures
-- **Quantum Communication**: Secure quantum communication protocols using integrated photonic circuits
-
-## Collaborations
-
-I enjoy collaborating with scientists from diverse fields, bringing together theoretical, computational, and experimental approaches to tackle complex problems in quantum technologies and photonics.
->>>>>>> 59339b800a8af20cc77be8e8398deb8a67e527e3
+For detailed project descriptions, see [Portfolio](/portfolio/).
