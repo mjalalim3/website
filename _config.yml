@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site Settings
 locale                   : "en-US"
 title                    : "Mahmoud Jalali Mehrabad"
@@ -119,3 +120,125 @@ jekyll-archives:
 
 # Bibliography (simplified)
 bibliography: true
+=======
+# Site Settings
+locale                   : "en-US"
+title                    : "Mahmoud Jalali Mehrabad"
+title_separator         : "|"
+subtitle                : "Quantum Photonics Researcher"
+name                    : "Mahmoud Jalali Mehrabad"
+description             : "Research in quantum photonics, optical computing, and quantum technologies at MIT"
+url                     : "https://mjalalim3.github.io/website"
+baseurl                 : "/website"
+
+# SEO
+twitter:
+  username              : "yourusername"
+  card                  : "summary_large_image"
+
+# Social
+social:
+  name                  : "Mahmoud Jalali Mehrabad"
+  links:
+    - "https://github.com/mjalalim3"
+    - "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
+    - "https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100"
+    - "https://x.com/mjalalimehrabad"
+    - "mailto:mjalalim3@mit.edu"
+    - "https://qp.mit.edu/team"
+
+# Author information
+author:
+  name                  : "Mahmoud Jalali Mehrabad"
+  avatar                : "/images/profile.jpg"
+  bio                   : "Researcher at MIT Quantum Photonics & AI Group"
+  location              : "Cambridge, MA"
+  email                 : "mjalalim3@mit.edu"
+  googlescholar         : "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
+  github                : "mjalalim3"
+  linkedin              : "mahmoud-jalali-mehrabad-7a46a5100"
+  twitter               : "mjalalimehrabad"
+
+# Build Settings
+markdown                 : kramdown
+highlighter             : rouge
+permalink               : /:categories/:title/
+paginate                 : 5
+paginate_path            : /page:num/
+timezone                 : "America/New_York"
+
+# Collections
+collections:
+  publications:
+    output              : true
+    permalink           : /:collection/:name/
+  talks:
+    output              : true
+    permalink           : /:collection/:name/
+  teaching:
+    output              : true
+    permalink           : /:collection/:name/
+  portfolio:
+    output              : true
+    permalink           : /:collection/:name/
+
+# Defaults
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: single
+      author_profile: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category-index
+    tag: tag-index
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Bibliography (simplified)
+bibliography: true
+>>>>>>> 59339b800a8af20cc77be8e8398deb8a67e527e3

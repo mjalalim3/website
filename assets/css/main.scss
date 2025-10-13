@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 ---
 
@@ -120,3 +121,130 @@
     color: #4285f4;
   }
 }
+=======
+---
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+// Custom styles for academic website
+.author__avatar {
+  img {
+    border-radius: 50%;
+    border: 3px solid #e8e8e8;
+    transition: transform 0.3s ease;
+  }
+  
+  img:hover {
+    transform: scale(1.05);
+  }
+}
+
+.social-icons {
+  .fa {
+    color: #666;
+    transition: color 0.3s ease;
+  }
+  
+  .fa:hover {
+    color: #0077b5; // LinkedIn blue
+  }
+  
+  .fa-github:hover {
+    color: #333;
+  }
+  
+  .fa-twitter:hover {
+    color: #1da1f2;
+  }
+  
+  .fa-envelope:hover {
+    color: #ea4335;
+  }
+}
+
+.page__content {
+  a {
+    color: #0077b5;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-bottom 0.3s ease;
+  }
+  
+  a:hover {
+    border-bottom: 1px solid #0077b5;
+  }
+}
+
+.masthead {
+  .masthead__inner-wrap {
+    .masthead__menu {
+      .greedy-nav {
+        .visible-links {
+          a {
+            color: #333;
+            font-weight: 500;
+            transition: color 0.3s ease;
+          }
+          
+          a:hover {
+            color: #0077b5;
+          }
+        }
+      }
+    }
+  }
+}
+
+// Enhanced navigation styling
+.nav__list {
+  .nav__item {
+    .nav__link {
+      color: #333;
+      font-weight: 500;
+      transition: color 0.3s ease;
+      
+      &:hover {
+        color: #0077b5;
+      }
+    }
+  }
+}
+
+// Professional typography
+.page__content {
+  h1, h2, h3, h4, h5, h6 {
+    color: #333;
+    font-weight: 600;
+  }
+  
+  p {
+    line-height: 1.6;
+    color: #555;
+  }
+}
+
+// Social media icons enhancement
+.social-icons {
+  .fa-linkedin:hover {
+    color: #0077b5;
+  }
+  
+  .fa-twitter:hover {
+    color: #1da1f2;
+  }
+  
+  .fa-github:hover {
+    color: #333;
+  }
+  
+  .fa-envelope:hover {
+    color: #ea4335;
+  }
+  
+  .fa-graduation-cap:hover {
+    color: #4285f4;
+  }
+}
+>>>>>>> 59339b800a8af20cc77be8e8398deb8a67e527e3

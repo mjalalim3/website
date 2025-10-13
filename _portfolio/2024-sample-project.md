@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 title: "Semiconductor Topological Quantum Photonic Integrated Circuits"
 venue: "University of Sheffield"
@@ -27,3 +28,13 @@ The project involved the design and fabrication of semiconductor-based topologic
 ## Impact
 
 This research has opened new avenues for scalable quantum photonic systems and has been cited in numerous follow-up studies in the field of topological quantum photonics.
+=======
+---
+title: "Sample Research Project"
+venue: "Research Lab"
+venue_url: "https://lab.university.edu"
+location: "Your City"
+date: "2024-03-01"
+type: "project"
+---
+>>>>>>> 59339b800a8af20cc77be8e8398deb8a67e527e3

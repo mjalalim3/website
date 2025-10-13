@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Main navigation
 main:
   - title: "Mahmoud Jalali Mehrabad"
@@ -12,3 +13,21 @@ main:
     url: /portfolio/
   - title: "CV"
     url: /cv/
+=======
+# Main navigation
+main:
+  - title: "Mahmoud Jalali Mehrabad"
+    url: /
+  - title: "Research"
+    url: /research/
+  - title: "Publications"
+    url: /publications/
+  - title: "Talks"
+    url: /talks/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Resources"
+    url: /resources/
+  - title: "Contact"
+    url: /contact/
+>>>>>>> 59339b800a8af20cc77be8e8398deb8a67e527e3
