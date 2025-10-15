@@ -70,8 +70,6 @@ author:
 markdown                 : kramdown
 highlighter             : rouge
 permalink               : /:categories/:title/
-paginate                 : 5
-paginate_path            : /page:num/
 timezone                 : "America/New_York"
 
 # Collections
@@ -126,4 +124,3 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-paginate
