@@ -6,7 +6,9 @@ author_profile: true
 
 ## Curriculum Vitae
 
-[Download my CV here]({{ '/files/M_Jalali_Mehrabad_CV_2025.pdf' | relative_url }})
+[Download my CV (PDF)]({{ '/files/M_Jalali_Mehrabad_CV_2025.pdf' | relative_url }})
+
+<button onclick="window.location='{{ '/files/M_Jalali_Mehrabad_CV_2025.pdf' | relative_url }}'">Open CV</button>
 
 ## Education
 

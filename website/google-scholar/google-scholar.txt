@@ -1,0 +1,385 @@
+@article{suarez2024chiral,
+  title={Chiral flat-band optical cavity with atomically thin mirrors},
+  author={Su{\'a}rez-Forero*, Daniel G and Ni*, Ruihao and Sarkar*, Supratik and Jalali Mehrabad*, Mahmoud and Mechtel, Erik and Simonyan, Valery and Grankin, Andrey and Watanabe, Kenji and Taniguchi, Takashi and Park, Suji and others},
+  journal={Science Advances},
+  volume={10},
+  number={51},
+  pages={eadr5904},
+  year={2024},
+  publisher={American Association for the Advancement of Science}
+}
+
+@inproceedings{forero2024chiral,
+  title={Chiral and quantum optics in 2D platforms},
+  author={Forero, Daniel Suarez and Ni, Ruihao and Sarkar, Supratik and Mehrabad, Mahmoud Jalali and Hafezi, Mohammad and Zhou, You},
+  booktitle={2D Photonic Materials and Devices VII},
+  pages={PC128880D},
+  year={2024},
+  organization={SPIE}
+}
+
+@article{jalali2023topological,
+  title={Topological photonics: Fundamental concepts, recent developments, and future directions},
+  author={Jalali Mehrabad, Mahmoud and Mittal, Sunil and Hafezi, Mohammad},
+  journal={Physical Review A},
+  volume={108},
+  number={4},
+  pages={040101},
+  year={2023},
+  publisher={APS}
+}
+
+@inproceedings{sharp2024extending,
+  title={Extending Topological Edge States to Visible Wavelengths in a Silicon Nitride Ring-Resonator Lattice},
+  author={Sharp, David and Flower, Christopher and Manna, Arnab and Rarick, Hannah and Mehrabad, Mahmoud Jalali and Chen, Rui and Hafezi, Mohammad and Majumdar, Arka},
+  booktitle={2024 Conference on Lasers and Electro-Optics (CLEO)},
+  pages={1--2},
+  year={2024},
+  organization={IEEE}
+}
+
+@article{gao2023excitonic,
+  title={Excitonic Mott insulator in a Bose-Fermi-Hubbard system of moir{\'e} $$\backslash$rm $\{$WS$\}$ \_2 $/$$\backslash$rm $\{$WSe$\}$ \_2 $ heterobilayer},
+  author={Gao, Beini and Su{\'a}rez-Forero, Daniel G and Sarkar, Supratik and Huang, Tsung-Sheng and Session, Deric and Jalali Mehrabad, Mahmoud and Ni, Ruihao and Xie, Ming and Vannucci, Jonathan and Mittal, Sunil and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2304},
+  year={2023}
+}
+
+@article{jalali2023chiral,
+  title={Chiral topological add--drop filter for integrated quantum photonic circuits},
+  author={Jalali Mehrabad, M and Foster, AP and Martin, NJ and Dost, Rene and Clarke, Edmund and Patil, PK and Skolnick, MS and Wilson, LR},
+  journal={Optica},
+  volume={10},
+  number={3},
+  pages={415--421},
+  year={2023},
+  publisher={Optica Publishing Group}
+}
+
+@article{session2025optical,
+  title={Optical pumping of electronic quantum Hall states with vortex light},
+  author={Session*, Deric and Jalali Mehrabad*, Mahmoud and Paithankar*, Nikil and Grass, Tobias and Eckhardt, Christian J and Cao, Bin and Gustavo Su{\'a}rez Forero, Daniel and Li, Kevin and Alam, Mohammad S and Watanabe, Kenji and others},
+  journal={Nature Photonics},
+  volume={19},
+  number={2},
+  pages={156--161},
+  year={2025},
+  publisher={Nature Publishing Group UK}
+}
+
+@phdthesis{jalali2021integrated,
+  title={Integrated topological quantum optics},
+  author={Jalali Mehrabad, Mahmoud},
+  year={2021},
+  school={University of Sheffield}
+}
+
+@article{upadhyay2024giant,
+  title={Giant enhancement of exciton diffusion near an electronic Mott insulator},
+  author={Upadhyay, Pranshoo and Su{\'a}rez-Forero, Daniel G and Huang, Tsung-Sheng and Mehrabad, Mahmoud Jalali and Gao, Beini and Sarkar, Supratik and Session, Deric and Watanabe, Kenji and Taniguchi, Takashi and Zhou, You and others},
+  journal={arXiv preprint arXiv:2409.18357},
+  year={2024}
+}
+
+@article{suarez2025chiral,
+  title={Chiral quantum optics: recent developments and future directions},
+  author={Su{\'a}rez-Forero*, DG and Jalali Mehrabad*, M and Vega, C and Gonz{\'a}lez-Tudela, A and Hafezi, M},
+  journal={Prx Quantum},
+  volume={6},
+  number={2},
+  pages={020101},
+  year={2025},
+  publisher={American Physical Society}
+}
+
+@article{flower2024observation,
+  title={Observation of topological frequency combs},
+  author={Flower*, Christopher J and Jalali Mehrabad*, Mahmoud and Xu*, Lida and Moille, Gregory and Suarez-Forero, Daniel G and {\"O}rsel, O{\u{g}}ulcan and Bahl, Gaurav and Chembo, Yanne and Srinivasan, Kartik and Mittal, Sunil and others},
+  journal={Science},
+  volume={384},
+  number={6702},
+  pages={1356--1361},
+  year={2024},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{jalali2025multi,
+  title={Multi-timescale frequency-phase matching for high-yield nonlinear photonics},
+  author={Jalali Mehrabad, Mahmoud and Xu, Lida and Moille, Gregory and Flower, Christopher J and Sarkar, Supratik and Padhye, Apurva and Ou, Shao-Chien and Suarez-Forero, Daniel G and Ghafariasl, Mahdi and Chembo, Yanne and others},
+  journal={arXiv e-prints},
+  pages={arXiv--2506},
+  year={2025}
+}
+
+@article{xu2025chip,
+  title={On-chip multi-timescale spatiotemporal optical synchronization},
+  author={Xu*, Lida and Mehrabad*, Mahmoud Jalali and Flower*, Christopher J and Moille, Gregory and Restelli, Alessandro and Suarez-Forero, Daniel G and Chembo, Yanne and Mittal, Sunil and Srinivasan, Kartik and Hafezi, Mohammad},
+  journal={Science Advances},
+  volume={11},
+  number={37},
+  pages={eadw7696},
+  year={2025},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{suarez2023spin,
+  title={Spin-selective strong light--matter coupling in a 2D hole gas-microcavity system},
+  author={Suarez-Forero, Daniel G and Session, Deric Weston and Jalali Mehrabad, Mahmoud and Kn{\"u}ppel, Patrick and Faelt, Stefan and Wegscheider, Werner and Hafezi, Mohammad},
+  journal={Nature Photonics},
+  volume={17},
+  number={10},
+  pages={912--916},
+  year={2023},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{jalali2020chiral,
+  title={Chiral topological photonics with an embedded quantum emitter},
+  author={Jalali Mehrabad, Mahmoud and Foster, Andrew P and Dost, Ren{\'e} and Clarke, Edmund and Patil, Pallavi K and Fox, A Mark and Skolnick, Maurice S and Wilson, Luke R},
+  journal={Optica},
+  volume={7},
+  number={12},
+  pages={1690--1696},
+  year={2020},
+  publisher={Optical Society of America}
+}
+
+@article{gao2025probing,
+  title={Probing Quantum Anomalous Hall States in Twisted Bilayer WSe2 via Attractive Polaron Spectroscopy},
+  author={Gao, Beini and Ghafariasl*, Mahdi and Mehrabad*, Mahmoud Jalali and Huang, Tsung-Sheng and Zhang, Lifu and Session, Deric and Upadhyay, Pranshoo and Ma, Rundong and Alshalan, Ghadah and Forero, Daniel Gustavo Su{\'a}rez and others},
+  journal={arXiv preprint arXiv:2504.11530},
+  year={2025}
+}
+
+@inproceedings{jalali2023towards,
+  title={Towards coherent light-matter interaction in quantum Hall regime using orbital angular momentum of light},
+  author={Jalali Mehrabad, Mahmoud and Session, Deric and Hafezi, Mohammad},
+  booktitle={APS Division of Atomic, Molecular and Optical Physics Meeting Abstracts},
+  volume={2023},
+  pages={C10--003},
+  year={2023}
+}
+
+@article{jalali2020semiconductor,
+  title={A semiconductor topological photonic ring resonator},
+  author={Jalali Mehrabad, M and Foster, AP and Dost, R and Clarke, E and Patil, PK and Farrer, I and Heffernan, J and Skolnick, MS and Wilson, LR},
+  journal={Applied physics letters},
+  volume={116},
+  number={6},
+  year={2020},
+  publisher={AIP Publishing}
+}
+
+@article{zheng2024dynamic,
+  title={Dynamic control of 2D non-Hermitian photonic corner skin modes in synthetic dimensions},
+  author={Zheng*, Xinyuan and Jalali Mehrabad*, Mahmoud and Vannucci, Jonathan and Li, Kevin and Dutt, Avik and Hafezi, Mohammad and Mittal, Sunil and Waks, Edo},
+  journal={Nature Communications},
+  volume={15},
+  number={1},
+  pages={10881},
+  year={2024},
+  publisher={Nature Publishing Group UK}
+}
+
+@article{hallacy2025nonlinear,
+  title={Nonlinear quantum optics at a topological interface enabled by defect engineering},
+  author={Hallacy, L and Martin, NJ and Mehrabad, M Jalali and Hallett, D and Chen, X and Dost, R and Foster, A and Brunswick, L and Fenzl, A and Clarke, E and others},
+  journal={npj Nanophotonics},
+  volume={2},
+  number={1},
+  pages={9},
+  year={2025},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{sharp2024near,
+  title={Near-visible topological edge states in a silicon nitride platform},
+  author={Sharp, David and Flower, Christopher and Jalali Mehrabad, Mahmoud and Manna, Arnab and Rarick, Hannah and Chen, Rui and Hafezi, Mohammad and Majumdar, Arka},
+  journal={Optical Materials Express},
+  volume={14},
+  number={6},
+  pages={1596--1602},
+  year={2024},
+  publisher={Optica Publishing Group}
+}
+
+@article{mehrabad2025multi,
+  title={Multi-timescale frequency-phase matching for high-yield nonlinear photonics},
+  author={Mehrabad*, Mahmoud Jalali and Xu*, Lida and Moille, Gregory and Flower, Christopher J and Sarkar, Supratik and Padhye, Apurva and Ou, Shao-Chien and Suarez-Forero, Daniel G and Ghafariasl, Mahdi and Chembo, Yanne and others},
+  journal={arXiv preprint arXiv:2506.15016},
+  year={2025}
+}
+
+@inproceedings{sarkar2025near,
+  title={Near-Field Probe and Control of Excitons in 2D Materials with Plasmonic Nanostructures},
+  author={Sarkar, Supratik and Mehrabad, Mahmoud Jalali and Suarez-Forero, Daniel G and Gu, Liuxin and Hafezi, Mohammad and Zhou, You},
+  booktitle={2025 IEEE Research and Applications of Photonics in Defense Conference (RAPID)},
+  pages={1--2},
+  year={2025},
+  organization={IEEE}
+}
+
+@article{martin2024topological,
+  title={Topological and conventional nanophotonic waveguides for directional integrated quantum optics},
+  author={Martin, NJ and Jalali Mehrabad, M and Chen, X and Dost, R and Nussbaum, E and Hallett, D and Hallacy, L and Foster, A and Clarke, E and Patil, PK and others},
+  journal={Physical Review Research},
+  volume={6},
+  number={2},
+  pages={L022065},
+  year={2024},
+  publisher={APS}
+}
+
+@article{mehrabad2024dynamic,
+  title={Dynamic control of 2D non-Hermitian photonic corner states in synthetic dimensions},
+  author={Mehrabad, Mahmoud Jalali and Zheng, Xinyuan and Vannucci, Jonathan and Li, Kevin and Dutt, Avik and Hafezi, Mohammad and Mittal, Sunil and Waks, Edo},
+  year={2024}
+}
+
+@article{flower2023topological,
+  title={Topological edge mode tapering},
+  author={Flower, Christopher J and Barik, Sabyasachi and Mehrabad, Mahmoud Jalali and Martin, Nicholas J and Mittal, Sunil and Hafezi, Mohammad},
+  journal={ACS Photonics},
+  volume={10},
+  number={10},
+  pages={3502--3507},
+  year={2023},
+  publisher={ACS Publications}
+}
+
+@article{gao2024excitonic,
+  title={Excitonic Mott insulator in a Bose-Fermi-Hubbard system of moir{\'e} WS2/WSe2 heterobilayer},
+  author={Gao, Beini and Su{\'a}rez-Forero, Daniel G and Sarkar, Supratik and Huang, Tsung-Sheng and Session, Deric and Mehrabad, Mahmoud Jalali and Ni, Ruihao and Xie, Ming and Upadhyay, Pranshoo and Vannucci, Jonathan and others},
+  journal={Nature Communications},
+  volume={15},
+  number={1},
+  pages={2305},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{jalali2024strain,
+  title={Strain-induced landau levels in photonic crystals},
+  author={Jalali Mehrabad, Mahmoud and Hafezi, Mohammad},
+  journal={Nature Photonics},
+  volume={18},
+  number={6},
+  pages={527--528},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+
+@article{sarkar2025sub,
+  title={Sub-wavelength optical lattice in 2D materials},
+  author={Sarkar*, Supratik and Mehrabad*, Mahmoud Jalali and Su{\'a}rez-Forero*, Daniel G and Gu*, Liuxin and Flower, Christopher J and Xu, Lida and Watanabe, Kenji and Taniguchi, Takashi and Park, Suji and Jang, Houk and others},
+  journal={Science Advances},
+  volume={11},
+  number={13},
+  pages={eadv2023},
+  year={2025},
+  publisher={American Association for the Advancement of Science}
+}
+
+@article{zheng2025quantum,
+  title={Quantum simulation of interacting bosons with propagating waveguide photons},
+  author={Zheng*, Xinyuan and Mehrabad*, Mahmoud Jalali and Dutt, Avik and Schine, Nathan and Waks, Edo},
+  journal={arXiv preprint arXiv:2504.15441},
+  year={2025}
+}
+
+@article{memarianamps,
+  title={AMPS-1D},
+  author={Memarian, Nafiseh and Minbashi, Mehran and Mehrabad, Mahmoud Jalai}
+}
+
+@article{gao2304excitonic,
+  title={Excitonic Mott insulator in a Bose-Fermi-Hubbard system of moir{\'e} WS2/WSe2 heterobilayer (2023)},
+  author={Gao, B and Su{\'a}rez-Forero, DG and Sarkar, S and Huang, TS and Session, D and Mehrabad, MJ and Ni, R and Xie, M and Vannucci, J and Mittal, S and others},
+  journal={arXiv preprint arXiv:2304.09731}
+}
+
+@article{upadhyay2024deric,
+  title={Deric Session, Kenji Watanabe, Takashi Taniguchi, You Zhou, et al. Giant enhancement of exciton diffusion near an electronic mott insulator},
+  author={Upadhyay, Pranshoo and Su{\'a}rez-Forero, Daniel G and Huang, Tsung-Sheng and Mehrabad, Mahmoud Jalali and Gao, Beini and Sarkar, Supratik},
+  journal={arXiv preprint arXiv:2409.18357},
+  year={2024}
+}
+
+@article{ehsani2017modeling,
+  title={Modeling and simulation of substrate temperature effect on surface reaction kinetics in GaAs thin films growth prepared via Chemical Vapor Deposition method},
+  author={Ehsani, Mohammad Hossein and Mehrabad, Mahmoud Jalali},
+  journal={Iranian Journal of Applied Physics},
+  volume={7},
+  number={1},
+  pages={5--22},
+  year={2017},
+  publisher={Alzahra University}
+}
+
+@article{mehrabad2305topological,
+  title={Topological photonics: fundamental concepts, recent developments, and future directions (2023)},
+  author={Mehrabad, MJ and Mittal, S and Hafezi, M},
+  journal={arXiv preprint arXiv:2305.16528}
+}
+
+@article{ehsani2016fabrication,
+  title={Fabrication of Co thin films using pulsed laser deposition method with or without employing external magnetic field},
+  author={Ehsani, MH and Mehrabad, M Jalali and Kameli, P},
+  journal={Journal of Magnetism and Magnetic Materials},
+  volume={417},
+  pages={117--121},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@article{suarez2411chiral,
+  title={Chiral quantum optics: recent developments, and future directions (2024)},
+  author={Su{\'a}rez-Forero, DG and Mehrabad, MJ and Vega, C and Gonz{\'a}lez-Tudela, A and Hafezi, M},
+  journal={arXiv preprint arXiv:2411.06495}
+}
+
+@article{martintopological,
+  title={Topological and conventional nano-photonic waveguides for chiral integrated quantum optics (2023)},
+  author={Martin, NJ and Mehrabad, MJ and Chen, X and Dost, R and Nussbaum, E and Hallett, D and Hallacy, L and Foster, A and Clarke, E and Patil, PK and others},
+  journal={There is no corresponding record for this reference}
+}
+
+@article{mehrabad2015investigation,
+  title={An investigation of eddy current, solid loss, induced voltage and magnetic torque in highly pure thin conductors, using finite element method},
+  author={Mehrabad, M Jalali and Ehsani, MH},
+  journal={Procedia Materials Science},
+  volume={11},
+  pages={412--417},
+  year={2015},
+  publisher={Elsevier}
+}
+
+@article{ehsani2016low,
+  title={Low-Temperature Electrical Resistivity of Bilayered LaSr 2 Mn 2 O 7 Manganite},
+  author={Ehsani, MH and Mehrabad, M Jalali and Kameli, P and Ghazi, ME and Razavi, FS},
+  journal={Journal of Low Temperature Physics},
+  volume={183},
+  number={5},
+  pages={359--370},
+  year={2016},
+  publisher={Springer}
+}
+
+@article{ehsani2018electrical,
+  title={The electrical transition temperature and magnetoresistance prediction of LaSr2Mn2O7 bilayered manganite},
+  author={Ehsani, Mohammad Hossein and Mehrabad, Mahmoud Jalali},
+  journal={Journal of King Saud University-Engineering Sciences},
+  volume={30},
+  number={4},
+  pages={339--344},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{gao2023deric,
+  title={Deric Session},
+  author={Gao, Beini and Su{\'a}rez-Forero, Daniel G and Sarkar, Supratik and Huang, Tsung-Sheng},
+  journal={Mahmoud Jalali Mehrabad, Ruihao Ni, Ming Xie, Jonathan Vannucci, Sunil Mittal, Kenji Watanabe, Takashi Taniguchi, Atac Imamoglu, You Zhou, and Mohammad Hafezi,“Excitonic Mott insulator in a Bose-Fermi-Hubbard system of moir{\'e} WS2/WSe2 heterobilayer,” arXiv e-prints},
+  year={2023}
+}
