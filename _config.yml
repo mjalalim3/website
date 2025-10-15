@@ -119,4 +119,6 @@ defaults:
       layout: single
       author_profile: true
 
-# Plugins - GitHub Pages includes these automatically when using remote_theme
+# Plugins
+plugins:
+  - jekyll-include-cache
