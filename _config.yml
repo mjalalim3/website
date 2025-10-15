@@ -122,10 +122,8 @@ defaults:
       layout: single
       author_profile: true
 
-# Plugins
+# Plugins (GitHub Pages includes these automatically)
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-include-cache
   - jekyll-paginate
