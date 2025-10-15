@@ -6,7 +6,6 @@ year: 2024
 type: "article"
 link: "https://www.science.org/doi/10.1126/sciadv.adr5904"
 abstract: "Demonstration of a chiral flat-band optical cavity built with atomically thin mirrors, enabling strong chiroptical effects in 2D platforms."
-redirect_to: "https://www.science.org/doi/10.1126/sciadv.adr5904"
 ---
 
-[View published article](https://www.science.org/doi/10.1126/sciadv.adr5904)
+**[View published article](https://www.science.org/doi/10.1126/sciadv.adr5904)**
