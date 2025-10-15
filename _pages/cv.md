@@ -29,21 +29,15 @@ author_profile: true
 
 ## Publications
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+See my [Publications page](/publications/) for a complete list.
 
 ## Talks
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
+See my [Talks page](/talks/) for a complete list.
 
 ## Teaching
 
-{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}
+See my [Teaching page](/teaching/) for a complete list.
 
 ## Awards and Recognition
 

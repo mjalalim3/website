@@ -13,9 +13,10 @@ repository              : "mjalalim3/website"
 remote_theme            : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin   : "default"
 
-# Build pages in _pages
+# Include files/folders
 include:
   - _pages
+  - .htaccess
 
 # SEO
 twitter:
@@ -139,11 +140,8 @@ jekyll-archives:
     - categories
     - tags
   layouts:
-    category: category-index
-    tag: tag-index
+    category: archive-taxonomy
+    tag: archive-taxonomy
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
-
-# Bibliography (simplified)
-bibliography: true
