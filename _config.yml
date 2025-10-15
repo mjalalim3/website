@@ -9,9 +9,8 @@ url                     : "https://mahmoudjalalimehrabad.com"
 baseurl                 : ""
 repository              : "mjalalim3/website"
 
-# Theme
-remote_theme            : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin   : "default"
+# Theme - using default GitHub Pages theme
+theme                   : minima
 
 # Include files/folders  
 include:
@@ -121,4 +120,5 @@ defaults:
 
 # Plugins
 plugins:
-  - jekyll-include-cache
+  - jekyll-feed
+  - jekyll-seo-tag
