@@ -4,6 +4,9 @@ authors: "Daniel G. Suárez‑Forero, Deric W. Session, Mahmoud Jalali Mehrabad,
 venue: "Nature Photonics"
 year: 2023
 type: "article"
-url: "https://www.nature.com/articles/s41566-023-01260-3"
+link: "https://www.nature.com/articles/s41566-023-01260-3"
 abstract: "Observation of spin‑selective strong coupling in a high‑quality 2D hole‑gas microcavity."
+redirect_to: "https://www.nature.com/articles/s41566-023-01260-3"
 ---
+
+[View published article](https://www.nature.com/articles/s41566-023-01260-3)

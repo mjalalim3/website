@@ -4,6 +4,9 @@ authors: "M. Jalali Mehrabad, A. P. Foster, N. J. Martin, Rene Dost, Edmund Clar
 venue: "Optica"
 year: 2023
 type: "article"
-url: "https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-3-415&id=528201"
+link: "https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-3-415&id=528201"
 abstract: "A chiral, topology‑enabled add‑drop filter implemented in a semiconductor platform for integrated quantum photonics."
+redirect_to: "https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-3-415&id=528201"
 ---
+
+[View published article](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-3-415&id=528201)
