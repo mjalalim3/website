@@ -38,7 +38,7 @@ social:
 # Author information
 author:
   name                  : "Mahmoud Jalali Mehrabad"
-  avatar                : "/images/profile.jpg"
+  avatar                : "images/profile.jpg"
   bio                   : "Research Scientist at MIT"
   location              : "Cambridge, MA"
   email                 : "mjalalim3@gmail.com"
@@ -48,6 +48,8 @@ author:
   github                : "mjalalim3"
   linkedin              : "mahmoud-jalali-mehrabad-7a46a5100"
   twitter               : "mjalalimehrabad"
+  arxiv                 : "Mahmoud+Jalali+Mehrabad"
+  research_group        : "https://qp.mit.edu/team"
 
 # Build Settings
 markdown                 : kramdown
