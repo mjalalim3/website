@@ -1,16 +1,10 @@
 ---
-layout: page
+layout: archive
 title: "Publications"
 permalink: /publications/
+author_profile: true
 ---
 
-<ul>
 {% for post in site.publications reversed %}
-  <li>
-    <strong>{{ post.title }}</strong> ({{ post.year }})<br>
-    <em>{{ post.venue }}</em><br>
-    {{ post.authors }}
-    {% if post.link %}<br><a href="{{ post.link }}">View article</a>{% endif %}
-  </li>
+  {% include archive-single.html %}
 {% endfor %}
-</ul>

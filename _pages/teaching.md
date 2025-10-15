@@ -1,14 +1,10 @@
 ---
-layout: page
+layout: archive
 title: "Teaching"
 permalink: /teaching/
+author_profile: true
 ---
 
-<ul>
 {% for post in site.teaching reversed %}
-  <li>
-    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
-  </li>
+  {% include archive-single.html %}
 {% endfor %}
-</ul>

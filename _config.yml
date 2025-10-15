@@ -9,8 +9,8 @@ url                     : "https://mahmoudjalalimehrabad.com"
 baseurl                 : ""
 repository              : "mjalalim3/website"
 
-# Theme - using default GitHub Pages theme
-theme                   : minima
+# Theme
+remote_theme            : "academicpages/academicpages.github.io"
 
 # Include files/folders  
 include:
