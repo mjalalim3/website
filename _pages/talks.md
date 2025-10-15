@@ -1,12 +1,14 @@
 ---
-layout: archive
+layout: page
 title: "Talks and Presentations"
 permalink: /talks/
-author_profile: true
 ---
 
-{% include base_path %}
-
+<ul>
 {% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
+  <li>
+    <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% if post.excerpt %}<p>{{ post.excerpt }}</p>{% endif %}
+  </li>
 {% endfor %}
+</ul>
