@@ -11,24 +11,23 @@ redirect_from:
 
 Hello! I'm Mahmoud Jalali Mehrabad, a Research Scientist at the Massachusetts Institute of Technology (MIT). I received my PhD in quantum optics as a University Prize Scholarship Fellow from the University of Sheffield, UK, in 2021, under the supervision of Profs. Maurice Skolnick, Mark Fox, and Luke Wilson.
 
-My PhD research focused on developing semiconductor topological quantum photonic integrated circuits, for the generation, transfer, and manipulation of light at the single photon limit on-chip, for which I was awarded the UK's Rank Prize Award in 2021. I joined the Joint Quantum Institute at the University of Maryland in 2022 to work in Prof. Hafezi's Lab, and now continue my research at MIT.
+My PhD research focused on developing semiconductor topological quantum photonic integrated circuits for generation, transfer, and manipulation of light at the single‑photon limit on‑chip, for which I was awarded the UK's Rank Prize Award in 2021. I joined the Joint Quantum Institute at the University of Maryland in 2022 to work in Prof. Mohammad Hafezi’s lab, and now continue my research at MIT.
 
-## Research Focus
+You can read more about my current projects on the [Research](/research/) page and find an up‑to‑date list of my publications on the [Publications](/publications/) page. A selection of project snapshots is on the [Portfolio](/portfolio/) page.
 
-My current research encompasses several cutting-edge areas in quantum photonics:
+## Research focus
 
-- **Topological Photonic Circuits:** Development of semiconductor topological quantum photonic integrated circuits
-- **Quantum Frequency Combs:** Generation and manipulation of optical frequency combs on topological silicon nitride
-- **On-chip Synchronization:** Multi-timescale optical synchronization and frequency-phase matching
-- **Chiral Quantum Optics:** On-chip chiral quantum optics with solid-state quantum emitters
-- **2D Materials Integration:** 2D-materials-integrated plasmonics for advanced photonic applications
+- **Topological photonic circuits:** Semiconductor topological quantum photonic integrated circuits
+- **Quantum frequency combs:** Frequency‑comb generation and control on topological silicon nitride
+- **On‑chip synchronization:** Multi‑timescale optical synchronization and frequency–phase matching
+- **Chiral quantum optics:** Directional light–matter interfaces with solid‑state quantum emitters
+- **2D‑materials photonics:** 2D‑materials‑integrated plasmonics for advanced photonic applications
 
 ## Education
 
-- **Ph.D.** in Quantum Optics, University of Sheffield, UK, 2021
-- **University Prize Scholarship Fellow** (2017-2021)
+- **Ph.D.** in Quantum Optics, University of Sheffield, UK (2021)
+- **University Prize Scholarship Fellow** (2017–2021)
 
-## Awards and Recognition
+## Awards and recognition
 
-- **UK Rank Prize Award** (2021) - For work on semiconductor topological quantum photonic integrated circuits
-- **University Prize Scholarship Fellow** (2017-2021) - University of Sheffield
+- **UK Rank Prize Award** (2021) – Semiconductor topological quantum photonic integrated circuits

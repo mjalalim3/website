@@ -51,6 +51,12 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/mjalalimehrabad"
+    - label: "arXiv"
+      icon: "ai ai-arxiv"
+      url: "https://arxiv.org/search/?query=Mahmoud+Jalali+Mehrabad&searchtype=author"
+    - label: "ORCID"
+      icon: "ai ai-orcid"
+      url: "https://orcid.org/"
 
 # Build Settings
 markdown                 : kramdown
