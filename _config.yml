@@ -13,10 +13,9 @@ repository              : "mjalalim3/website"
 remote_theme            : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin   : "default"
 
-# Include files/folders
+# Include files/folders  
 include:
   - _pages
-  - .htaccess
 
 # SEO
 twitter:
@@ -120,7 +119,4 @@ defaults:
       layout: single
       author_profile: true
 
-# Plugins (GitHub Pages includes these automatically)
-plugins:
-  - jekyll-feed
-  - jekyll-include-cache
+# Plugins - GitHub Pages includes these automatically when using remote_theme
