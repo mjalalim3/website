@@ -13,6 +13,10 @@ repository              : "mjalalim3/website"
 remote_theme            : "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin   : "default"
 
+# Build pages in _pages
+include:
+  - _pages
+
 # SEO
 twitter:
   username              : "mjalalimehrabad"
@@ -26,7 +30,7 @@ social:
     - "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
     - "https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100"
     - "https://x.com/mjalalimehrabad"
-    - "mailto:mjalalim3@mit.edu"
+    - "mailto:mjalalim3@gmail.com"
 
 # Author information
 author:
@@ -34,11 +38,14 @@ author:
   avatar                : "images/profile.jpg"
   bio                   : "Research Scientist at MIT"
   location              : "Cambridge, MA"
-  email                 : "mjalalim3@mit.edu"
+  email                 : "mjalalim3@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mjalalim3@mit.edu"
+      url: "mailto:mjalalim3@gmail.com"
+    - label: "Email (MIT)"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mjalalim@mit.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
@@ -56,7 +63,10 @@ author:
       url: "https://arxiv.org/search/?query=Mahmoud+Jalali+Mehrabad&searchtype=author"
     - label: "ORCID"
       icon: "ai ai-orcid"
-      url: "https://orcid.org/"
+      url: "https://orcid.org/0000-0002-9809-9998"
+    - label: "Research Group"
+      icon: "fas fa-fw fa-users"
+      url: "https://qp.mit.edu/team"
 
 # Build Settings
 markdown                 : kramdown
@@ -83,35 +93,30 @@ collections:
 
 # Defaults
 defaults:
-  # _pages
   - scope:
       path: ""
       type: pages
     values:
       layout: single
       author_profile: true
-  # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
       author_profile: true
-  # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: single
       author_profile: true
-  # _teaching
   - scope:
       path: ""
       type: teaching
     values:
       layout: single
       author_profile: true
-  # _portfolio
   - scope:
       path: ""
       type: portfolio

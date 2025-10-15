@@ -1,67 +1,27 @@
-<<<<<<< HEAD
 ---
 title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
 
-# Contact
+## Contact
 
-## Get in Touch
+### Email
+- **MIT:** mjalalim [at] mit [dot] edu
+- **Personal:** mjalalim3 [at] gmail [dot] com
 
-I'm always interested in discussing research opportunities, collaborations, and academic projects. Feel free to reach out!
+### Office
+- **Building:** 6C-417
+- **Massachusetts Institute of Technology**
+- **77 Massachusetts Avenue**
+- **Cambridge, MA 02139**
 
-## Contact Information
+### Research Group
+- **MIT Quantum Photonics Group:** [https://qp.mit.edu/team](https://qp.mit.edu/team)
 
-**Email:** mjalalim3@mit.edu  
-**Office:** Research Laboratory of Electronics, MIT  
-**Location:** Cambridge, MA
-
-## Social Media
-
-- **LinkedIn:** [Mahmoud Jalali Mehrabad](https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100)
-- **X/Twitter:** [@mjalalimehrabad](https://x.com/mjalalimehrabad)
-- **GitHub:** [mjalalim3](https://github.com/mjalalim3)
-
-## Academic Profiles
-
-- **Google Scholar:** [Mahmoud Jalali Mehrabad](https://scholar.google.com/citations?user=CqtiZuEAAAAJ)
-- **MIT Quantum Photonics Group:** [Team Page](https://qp.mit.edu/team)
-
-## Research Group
-
-I am part of the MIT Quantum Photonics & AI Group under Prof. Dirk Englund, working on quantum technologies and photonics research.
-=======
----
-title: "Contact"
-permalink: /contact/
-author_profile: true
----
-
-# Contact
-
-## Get in Touch
-
-I'm always interested in discussing research opportunities, collaborations, and academic projects. Feel free to reach out!
-
-## Contact Information
-
-**Email:** mjalalim3@mit.edu  
-**Office:** Research Laboratory of Electronics, MIT  
-**Location:** Cambridge, MA
-
-## Social Media
-
-- **LinkedIn:** [Mahmoud Jalali Mehrabad](https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100)
-- **X/Twitter:** [@mjalalimehrabad](https://x.com/mjalalimehrabad)
-- **GitHub:** [mjalalim3](https://github.com/mjalalim3)
-
-## Academic Profiles
-
-- **Google Scholar:** [Mahmoud Jalali Mehrabad](https://scholar.google.com/citations?user=CqtiZuEAAAAJ)
-- **MIT Quantum Photonics Group:** [Team Page](https://qp.mit.edu/team)
-
-## Research Group
-
-I am part of the MIT Quantum Photonics & AI Group under Prof. Dirk Englund, working on quantum technologies and photonics research.
->>>>>>> 59339b800a8af20cc77be8e8398deb8a67e527e3
+### Social Media
+- **Google Scholar:** [https://scholar.google.com/citations?user=CqtiZuEAAAAJ](https://scholar.google.com/citations?user=CqtiZuEAAAAJ)
+- **ORCID:** [https://orcid.org/0000-0002-9809-9998](https://orcid.org/0000-0002-9809-9998)
+- **LinkedIn:** [https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100](https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100)
+- **Twitter/X:** [https://x.com/mjalalimehrabad](https://x.com/mjalalimehrabad)
+- **GitHub:** [https://github.com/mjalalim3](https://github.com/mjalalim3)
