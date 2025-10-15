@@ -11,6 +11,7 @@ repository              : "mjalalim3/website"
 
 # Theme
 remote_theme            : "academicpages/academicpages.github.io"
+minimal_mistakes_skin    : "default"
 
 # Include files/folders  
 include:
@@ -30,39 +31,23 @@ social:
     - "https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100"
     - "https://x.com/mjalalimehrabad"
     - "mailto:mjalalim3@gmail.com"
+    - "https://orcid.org/0000-0002-9809-9998"
+    - "https://arxiv.org/search/?query=Mahmoud+Jalali+Mehrabad&searchtype=author"
+    - "https://qp.mit.edu/team"
 
 # Author information
 author:
   name                  : "Mahmoud Jalali Mehrabad"
-  avatar                : "images/profile.jpg"
+  avatar                : "/images/profile.jpg"
   bio                   : "Research Scientist at MIT"
   location              : "Cambridge, MA"
   email                 : "mjalalim3@gmail.com"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:mjalalim3@gmail.com"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.com/citations?user=CqtiZuEAAAAJ"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mjalalim3"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/mahmoud-jalali-mehrabad-7a46a5100"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/mjalalimehrabad"
-    - label: "arXiv"
-      icon: "ai ai-arxiv"
-      url: "https://arxiv.org/search/?query=Mahmoud+Jalali+Mehrabad&searchtype=author"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "https://orcid.org/0000-0002-9809-9998"
-    - label: "Research Group"
-      icon: "fas fa-fw fa-users"
-      url: "https://qp.mit.edu/team"
+  uri                   : "https://mahmoudjalalimehrabad.com"
+  orcid                 : "0000-0002-9809-9998"
+  google_scholar        : "CqtiZuEAAAAJ"
+  github                : "mjalalim3"
+  linkedin              : "mahmoud-jalali-mehrabad-7a46a5100"
+  twitter               : "mjalalimehrabad"
 
 # Build Settings
 markdown                 : kramdown
@@ -122,3 +107,7 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-scholar
+  - jekyll-include-cache
