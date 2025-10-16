@@ -4,7 +4,7 @@ authors: "M. J. Mehrabad, M. Hafezi"
 venue: "Nature Photonics"
 year: 2024
 type: "article"
-link: "https://www.nature.com/articles/s41566-024-00912-4"
+link: "https://www.nature.com/articles/s41566-024-01453-8"
 abstract: "Strain-induced Landau levels in photonic crystals for topological photonic applications."
 ---
 
