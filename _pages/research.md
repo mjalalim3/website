@@ -17,12 +17,12 @@ This page highlights selected directions. See also the [Publications](/publicati
 ![Topological Frequency Combs]({{ '/images/Topo Comb.png' | relative_url }})
 
 ### 2. Nested frequency-phase matching for integrated nonlinear photonics
-**Science (in press) arXiv: 2506.15016 (2025)**
+**arXiv: 2506.15016 (2025)**
 
 ![Topological Harmonics]({{ '/images/Topo Harmonics.png' | relative_url }})
 
 ### 3. Giant enhancement of exciton diffusion near an electronic Mott insulator
-**Science (in press) arXiv: 2409.18357 (2025)**
+**arXiv: 2409.18357 (2025)**
 
 ![Exciton Diffusion]({{ '/images/Diffusion.png' | relative_url }})
 
