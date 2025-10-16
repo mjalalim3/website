@@ -31,3 +31,9 @@ You can read more about my current projects on the [Research](/research/) page a
 ## Awards and recognition
 
 - **UK Rank Prize Award** (2021) – Semiconductor topological quantum photonic integrated circuits
+
+## Selected Service & Outreach
+
+*   Discovery Night "Quantum Light" (2018)
+*   Cheltenham Science Festival "Communication with Light" (2019)
+*   Facilitator, Research Professionalism/Integrity training (2021)
