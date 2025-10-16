@@ -11,13 +11,13 @@ author_profile: true
 - **Personal:** mjalalim3 [at] gmail [dot] com
 
 ### Office
-- **Building:** 6C-417
+- **Room:** 36-521
 - **Massachusetts Institute of Technology**
-- **77 Massachusetts Avenue**
+- **50 Vassar Street**
 - **Cambridge, MA 02139**
 
 ### Research Group
-- **MIT Quantum Photonics Group:** [https://qp.mit.edu/team](https://qp.mit.edu/team)
+- **MIT Quantum Photonics & AI Group:** [https://qp.mit.edu/team](https://qp.mit.edu/team)
 
 ### Social Media
 - **Google Scholar:** [https://scholar.google.com/citations?user=CqtiZuEAAAAJ](https://scholar.google.com/citations?user=CqtiZuEAAAAJ)
