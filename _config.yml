@@ -106,7 +106,6 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-paginate
   - jekyll-scholar
   - jekyll-include-cache
