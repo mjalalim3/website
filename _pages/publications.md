@@ -18,7 +18,6 @@ author_profile: true
       <p class="archive__item-excerpt" itemprop="description">
         {% if post.authors %}{{ post.authors }}<br>{% endif %}
         {% if post.venue %}{{ post.venue }} ({{ post.year }}){% endif %}
-        {% if post.link %}<br><a href="{{ post.link }}" rel="permalink noopener noreferrer" target="_blank">View article</a>{% endif %}
       </p>
     </article>
   </div>
