@@ -11,14 +11,7 @@ repository              : "mjalalim3/website"
 
 # Theme
 remote_theme            : "academicpages/academicpages.github.io"
-minimal_mistakes_skin    : "default"
-
-# Custom styling
-minimal_mistakes:
-  skin: "default"
-  palette:
-    primary: "#0066cc"
-    secondary: "#004499"
+minimal_mistakes_skin    : "dark"
 
 # Include files/folders  
 include:
