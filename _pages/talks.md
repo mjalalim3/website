@@ -1,8 +1,8 @@
 ---
+layout: archive
 title: "Talks"
 permalink: /talks/
 author_profile: true
-layout: single
 ---
 
 # Talks & Conferences

@@ -1,11 +1,11 @@
 ---
-title: "Chiral topological add‑drop filter for integrated quantum photonic circuits"
-authors: "M. Jalali Mehrabad, A. P. Foster, N. J. Martin, Rene Dost, Edmund Clarke, P. K. Patil, M. S. Skolnick, L. R. Wilson"
+title: "A chiral topological add-drop filter for integrated quantum photonic circuits"
+authors: "M. J. Mehrabad, A. P. Foster, R. Dost, E. Clarke, P. K. Patil, A. M. Fox, M. S. Skolnick, L. R. Wilson"
 venue: "Optica"
 year: 2023
 type: "article"
-link: "https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-3-415&id=528201"
-abstract: "A chiral, topology‑enabled add‑drop filter implemented in a semiconductor platform for integrated quantum photonics."
+link: "https://opg.optica.org/optica/abstract.cfm?uri=optica-10-3-415"
+abstract: "A chiral topological add-drop filter for integrated quantum photonic circuits enabling robust quantum light manipulation."
 ---
 
-**[View published article](https://opg.optica.org/optica/fulltext.cfm?uri=optica-10-3-415&id=528201)**
+**[View published article](https://opg.optica.org/optica/abstract.cfm?uri=optica-10-3-415)**
