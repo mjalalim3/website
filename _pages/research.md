@@ -11,38 +11,38 @@ This page highlights selected directions. See also the [Publications](/publicati
 
 ## Research Highlights
 
-### 1. Observation of topological frequency combs
-**Science 384 1356-1361 (2024)**
-
-![Topological Frequency Combs]({{ '/images/Topo Comb.png' | relative_url }})
-
-### 2. Nested frequency-phase matching for integrated nonlinear photonics
-**arXiv: 2506.15016 (2025)**
+### 1. Multi-timescale frequency-phase matching for high-yield nonlinear photonics
+**Science 390(6773), 612–616 (2025)**
 
 ![Topological Harmonics]({{ '/images/Topo Harmonics.png' | relative_url }})
 
-### 3. Giant enhancement of exciton diffusion near an electronic Mott insulator
-**arXiv: 2409.18357 (2025)**
+### 2. Giant enhancement of exciton diffusion near an electronic Mott insulator
+**Science 391(6783), 394–398 (2026)**
 
 ![Exciton Diffusion]({{ '/images/Diffusion.png' | relative_url }})
 
+### 3. Observation of topological frequency combs
+**Science 384, 1356–1361 (2024)**
+
+![Topological Frequency Combs]({{ '/images/Topo Comb.png' | relative_url }})
+
 ### 4. On-chip multi-timescale optical synchronization
-**Science Advances, 11 (37) (2025)**
+**Science Advances 11, eadw7696 (2025)**
 
 ![Topological Modelocking]({{ '/images/Topo modelocking.png' | relative_url }})
 
-### 5. Spin-selective strong light-matter coupling in a 2D hole gas-microcavity system
-**Nature Photonics, 17 (912-916) (2023)**
-
-![Spin-Selective Coupling]({{ '/images/Spin.png' | relative_url }})
-
-### 6. Optical pumping of electronic Landau levels with vortex light
-**Nature Photonics, 19 (156-161) (2025)**
+### 5. Optical pumping of electronic quantum Hall states with vortex light
+**Nature Photonics 19, 156–161 (2025)**
 
 ![Optical Angular Momentum]({{ '/images/OAM.png' | relative_url }})
 
-### 7. Excitonic Mott insulator in a Bose-Fermi-Hubbard system of moiré WS2/WSe2 bilayer
-**Nature Communications 15 2405 (2024)**
+### 6. Spin-selective strong light–matter coupling in a 2D hole gas-microcavity system
+**Nature Photonics 17, 912–916 (2023)**
+
+![Spin-Selective Coupling]({{ '/images/Spin.png' | relative_url }})
+
+### 7. Excitonic Mott insulator in a Bose–Fermi–Hubbard system of moiré WS2/WSe2 heterobilayer
+**Nature Communications 15, 2305 (2024)**
 
 ![Mott Insulator]({{ '/images/Mott.png' | relative_url }})
 

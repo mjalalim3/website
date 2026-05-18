@@ -13,19 +13,19 @@ author_profile: true
 ## Education
 
 - **Ph.D.** in Quantum Optics, University of Sheffield, UK, 2021
-- **University Prize Scholarship Fellow** (2017-2021)
+- **University Prize Scholarship Fellow** (2017–2021)
 
 ## Academic Positions
 
-- **Current Position:** Research Scientist, MIT, 2023–Present
-- **Previous Position:** Postdoctoral Researcher, Joint Quantum Institute, University of Maryland, 2022–2023
-- **PhD Research:** University Prize Scholarship Fellow, University of Sheffield, 2017–2021
+- **Research Scientist**, MIT (2025–Present)
+- **Postdoctoral Researcher**, Joint Quantum Institute, University of Maryland (2022–2025)
+- **University Prize Scholarship Fellow / PhD Researcher**, University of Sheffield (2017–2021)
 
 ## Research Experience
 
-- **MIT (2023–Present):** Quantum photonics and topological photonic circuits
-- **University of Maryland (2022–2023):** Optical frequency combs and quantum synchronization
-- **University of Sheffield (2017–2021):** Topological quantum photonic integrated circuits
+- **MIT (2025–Present):** Integrated nonlinear photonic devices, AI-augmented photonic design, topological & chiral photonics
+- **University of Maryland (2022–2025):** Optical frequency combs, on-chip synchronization, frequency-phase matching, 2D-materials quantum optoelectronics
+- **University of Sheffield (2017–2021):** Semiconductor topological quantum photonic integrated circuits
 
 ## Publications
 
@@ -38,8 +38,3 @@ See my [Talks page](/talks/) for a complete list.
 ## Teaching
 
 See my [Teaching page](/teaching/) for a complete list.
-
-## Awards and Recognition
-
-- **UK Rank Prize Award** (2021)
-- **University Prize Scholarship Fellow** (2017–2021)
