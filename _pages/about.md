@@ -15,6 +15,12 @@ I received my PhD in quantum optics as a University Prize Scholarship Fellow fro
 
 You can read more about my current projects on the [Research](/research/) page and find an up-to-date list of my publications on the [Publications](/publications/) page.
 
+<video width="100%" autoplay loop muted playsinline controls>
+  <source src="{{ '/images/Topological_Lattice.mp4' | relative_url }}" type="video/mp4">
+</video>
+
+*Two-dimensional topological lattice of coupled nonlinear microring resonators — the architecture underlying our work on [topological frequency combs (**Science** 384, 1356–1361, 2024)](https://www.science.org/doi/10.1126/science.adq1575) and [multi-timescale frequency-phase matching for high-yield nonlinear photonics (**Science** 390, 612–616, 2025)](https://www.science.org/doi/10.1126/science.adu6368).*
+
 ## Research interests
 
 - **Multiscale nonlinear photonic devices** — frequency-phase matching architectures, integrated frequency combs, and harmonic generation across silicon nitride and thin-film lithium niobate
@@ -28,10 +34,17 @@ You can read more about my current projects on the [Research](/research/) page a
 
 ## Awards and recognition
 
-- **UK Rank Prize Award** (2021) – Semiconductor topological quantum photonic integrated circuits
+- **UM Ventures Outstanding Invention of 2025** — TOPAI: Topological Photonics Architecture for Optical Computing and AI
+- **UK Rank Prize Award** (2021) — Semiconductor topological quantum photonic integrated circuits
 
 ## Selected Service & Outreach
 
 *   Discovery Night "Quantum Light" (2018)
 *   Cheltenham Science Festival "Communication with Light" (2019)
 *   Facilitator, Research Professionalism/Integrity training (2021)
+
+<video width="100%" autoplay loop muted playsinline controls>
+  <source src="{{ '/images/Single_Ring.mp4' | relative_url }}" type="video/mp4">
+</video>
+
+*Single microring resonator coupled to a bus waveguide — the fundamental building block of the lattice architectures above, where nonlinear processes such as four-wave mixing and Kerr-soliton frequency-comb formation take place.*
