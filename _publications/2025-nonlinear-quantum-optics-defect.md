@@ -4,7 +4,7 @@ authors: "L. Hallacy, N. J. Martin, M. J. Mehrabad, D. Hallett, R. Dost, A. Fenz
 venue: "npj Nanophotonics"
 year: 2025
 type: "article"
-link: "https://www.nature.com/articles/s41566-025-00456-8"
+link: "https://www.nature.com/articles/s44310-025-00057-6"
 abstract: "Nonlinear quantum optics at topological interfaces enabled by defect engineering in photonic crystals."
 ---
 

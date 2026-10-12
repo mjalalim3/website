@@ -4,7 +4,7 @@ authors: "X. Zheng*, M. J. Mehrabad*, J. Vannucci, K. Li, A. Dutt, M. Hafezi, S.
 venue: "Nature Communications"
 year: 2024
 type: "article"
-link: "https://www.nature.com/articles/s41467-024-47320-8"
+link: "https://www.nature.com/articles/s41467-024-55236-4"
 abstract: "Dynamic control of 2D non-Hermitian photonic corner states in synthetic dimensions for quantum photonic applications."
 ---
 

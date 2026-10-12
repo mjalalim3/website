@@ -4,7 +4,7 @@ authors: "C. J. Flower*, M. J. Mehrabad*, L. Xu*, G. Moille, D. G. S. Forero, Y.
 venue: "Science"
 year: 2024
 type: "article"
-link: "https://www.science.org/doi/10.1126/science.adq1575"
+link: "https://www.science.org/doi/10.1126/science.ado0053"
 abstract: "Experimental observation of frequency combs protected by lattice topology, enabling robust microcomb generation."
 ---
 
